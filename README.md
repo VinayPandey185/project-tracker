@@ -11,7 +11,7 @@ npm run dev
 
 ## Live Demo
 
-(Add Vercel link here after deployment)
+https://project-tracker-woad-mu.vercel.app/
 
 ## Preview (sereennshots)
 
