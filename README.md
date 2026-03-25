@@ -13,24 +13,26 @@ npm run dev
 
 (Add Vercel link here after deployment)
 
-## Preview (Lighthouse)
+## Preview (sereennshots)
+
+## Preview
 
 ### Kanban View
-public/screenshots/Kanban_view.png
-public/screenshots/kanban(filter+url).png
-public/screenshots/Main_UI.png
+![Kanban](public/screenshots/Kanban_view.png)
+![Kanban Filter](public/screenshots/kanban(filter+url).png)
+![Main UI](public/screenshots/Main_UI.png)
 
 ### List View
-public/screenshots/List_view.png
-public/screenshots/List(drop-down Selction).png
+![List](public/screenshots/List_view.png)
+![Dropdown](public/screenshots/List(drop-down Selction).png)
 
 ### Timeline View
-public/screenshots/Timeline_view.png
+![Timeline](public/screenshots/Timeline_view.png)
 
 ## Lighthouse Score
 
-public/screenshots/Lighthouse.png
-public/screenshots/Metrics.png
+![Lighthouse](public/screenshots/Lighthouse.png)
+![Metrics](public/screenshots/Metrics.png)
 
 ## Tech Stack
 - React (Vite)
@@ -83,7 +85,7 @@ It also helps in reducing unnecessary re-renders by enabling selective subscript
 
 ## Custom Drag and Drop
 
-I## Drag and Drop Approach
+## Drag and Drop Approach
 
 The drag-and-drop system was implemented using native HTML drag events without any external libraries.
 
